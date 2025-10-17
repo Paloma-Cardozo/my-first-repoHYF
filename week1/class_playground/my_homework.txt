@@ -1,1 +1,2 @@
 This is a exercise.
+I am learning Git.
